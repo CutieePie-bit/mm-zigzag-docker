@@ -27,3 +27,6 @@ qemu-base/
 
 #Temporary Jenkins files from build
 jenkins/
+
+#TEMP
+Makefile
